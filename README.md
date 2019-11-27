@@ -2,6 +2,10 @@
 
 Removes ads from all webpages matching startpage.com.
 
+## Development
+
+To sign the extension, get new JWT tokens: https://addons.mozilla.org/en-US/developers/addon/api/key/
+
 This is an open source project which uses the [The Hippocratic License][license].
 
 ## Contributing

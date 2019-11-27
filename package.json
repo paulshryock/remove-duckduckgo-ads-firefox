@@ -4,7 +4,10 @@
   "description": "Removes ads from all webpages matching startpage.com.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "web-ext run",
+    "lint": "web-ext lint",
+    "build": "web-ext --config=config.js build",
+    "sign": "web-ext sign --api-key=$AMO_JWT_ISSUER --api-secret=$AMO_JWT_SECRET"
   },
   "repository": {
     "type": "git",
@@ -18,7 +21,7 @@
     "blocker"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "The Hippocratic License",
   "bugs": {
     "url": "https://github.com/paulshryock/remove-startpage-ads-firefox/issues"
   },
