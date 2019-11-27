@@ -5,9 +5,10 @@ package-lock.json
 # Private
 .env
 
-# Temp files
+# Build files
 build/
 dist/
+web-ext-artifacts/
 
 # OS files
 .DS_Store
