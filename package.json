@@ -1,7 +1,7 @@
 {
   "name": "remove-startpage-ads-firefox",
   "version": "1.0.0",
-  "description": "Removes ads from all webpages matching startpage.com.",
+  "description": "Firefox extension that removes ads from all webpages matching startpage.com.",
   "main": "main.js",
   "scripts": {
     "start": "web-ext run",
