@@ -15,6 +15,11 @@ and this project adheres to [Semantic Versioning](semver).
 ### Security
 -->
 
+## 1.1.0 - 2019-12-19 - Block more ads
+
+### Added
+- Block footer ads
+
 ## 1.0.0 - 2019-12-19 - Initial release
 
 ### Added
