@@ -1,6 +1,6 @@
 {
-  "name": "Remove StartPage Ads",
-  "description": "Removes ads from all webpages matching startpage.com.",
+  "name": "Remove DuckDuckGo Ads",
+  "description": "Removes ads from all webpages matching duckduckgo.com.",
   "manifest_version": 2,
   "version": "1.0.0",
   "icons": {
@@ -8,7 +8,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.startpage.com/*"],
+      "matches": ["*://*.duckduckgo.com/*"],
       "js": ["main.js"]
     }
   ]

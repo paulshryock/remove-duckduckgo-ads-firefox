@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](semver).
 ### Security
 -->
 
-## 1.0.0 - 2019-11-27 - Initial release
+## 1.0.0 - 2019-12-19 - Initial release
 
 ### Added
 - Block ads

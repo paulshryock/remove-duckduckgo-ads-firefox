@@ -1,7 +1,7 @@
 {
-  "name": "remove-startpage-ads-firefox",
+  "name": "remove-duckduckgo-ads-firefox",
   "version": "1.0.0",
-  "description": "Firefox extension that removes ads from all webpages matching startpage.com.",
+  "description": "Firefox extension that removes ads from all webpages matching duckduckgo.com.",
   "main": "main.js",
   "scripts": {
     "start": "web-ext run",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulshryock/remove-startpage-ads-firefox.git"
+    "url": "git+https://github.com/paulshryock/remove-duckduckgo-ads-firefox.git"
   },
   "keywords": [
     "firefox",
     "extension",
-    "startpage",
+    "duckduckgo",
     "ad",
     "blocker"
   ],
   "author": "",
   "license": "The Hippocratic License",
   "bugs": {
-    "url": "https://github.com/paulshryock/remove-startpage-ads-firefox/issues"
+    "url": "https://github.com/paulshryock/remove-duckduckgo-ads-firefox/issues"
   },
-  "homepage": "https://github.com/paulshryock/remove-startpage-ads-firefox#readme"
+  "homepage": "https://github.com/paulshryock/remove-duckduckgo-ads-firefox#readme"
 }

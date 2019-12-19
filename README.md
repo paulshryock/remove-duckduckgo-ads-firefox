@@ -1,6 +1,6 @@
-# Remove Startpage Ads
+# Remove DuckDuckGo Ads
 
-Firefox extension that removes ads from all webpages matching startpage.com.
+Firefox extension that removes ads from all webpages matching duckduckgo.com.
 
 This is an open source project which uses the [The Hippocratic License][license].
 
